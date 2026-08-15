@@ -1,0 +1,29 @@
+# Build artifacts
+app
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Generated assets / caches
+/temp_read_*
+__pycache__/
+
+# Local runtime files
+*.pid
+*.state
