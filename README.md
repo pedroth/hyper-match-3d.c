@@ -2,6 +2,8 @@
 
 HyperMatch 3D is a manifold match-3 game where you swap neighboring spheres by selecting two adjacent nodes on a mesh. When three or more connected spheres share the same color, they are removed. The goal is to remove 10% of the spheres as quickly as possible.
 
+![HyperMatch3D](/HyperMatch3d.webp)
+
 This repository is a native C port based on [pedroth/hyper-match-3d](https://github.com/pedroth/hyper-match-3d).
 
 This port was generated using AI code generation (VS Code agents) from the original JavaScript project. It leverages the [tela.c](https://github.com/pedroth/tela.c) library, and its [src/index.c](https://github.com/pedroth/tela.c/blob/main/src/index.c) was copied into the project after removing unnecessary code.
